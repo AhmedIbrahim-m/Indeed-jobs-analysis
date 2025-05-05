@@ -16,12 +16,19 @@ Handles pop-ups and page delays.
 
 📊 Data Analysis
 Displays job distribution by location and company.
+![WhatsApp Image 2025-04-30 at 20 37 26_6f6e1549](https://github.com/user-attachments/assets/cb3d59f2-1632-46e4-9573-df47bf8667b3)
+
 
 Visualizes salary ranges.
+![WhatsApp Image 2025-04-30 at 20 37 46_25d672d2](https://github.com/user-attachments/assets/a9aa3131-8423-45c1-8ba7-2b39ec269534)
 
 Shows average job ratings.
+![WhatsApp Image 2025-04-30 at 20 37 46_25d672d2](https://github.com/user-attachments/assets/da2f2f37-419d-47f8-a34f-02c18124a2ce)
 
 Identifies the most common job types.
+![WhatsApp Image 2025-04-30 at 20 37 52_647bde9a](https://github.com/user-attachments/assets/307198ad-f950-47bd-a34c-748ce8ae5f27)
+
+![WhatsApp Image 2025-04-30 at 20 38 07_375ee919](https://github.com/user-attachments/assets/76c3ddcd-5e1d-453f-b3d1-4b2858743276)
 
 🚀 Getting Started
 ✅ Prerequisites
