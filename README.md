@@ -1,4 +1,4 @@
-🧠 Indeed Job Scraper and Data Analyzer
+#🧠 Indeed Job Scraper and Data Analyzer
 
 This project consists of a web scraper and a data analysis module designed to extract and analyze job postings from Indeed.com for software-related roles. It provides valuable insights into job titles, locations, companies, salaries, and ratings using Selenium for automation and Pandas/Matplotlib for analysis.
 
